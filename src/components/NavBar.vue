@@ -1,5 +1,5 @@
 <template>
-  <nav class="navbar navbar-expand-lg navbar-dark bg-white px-4">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-4">
     <router-link class="navbar-brand fw-bold d-flex align-items-center" to="/">
       <img src="https://cdn-icons-png.flaticon.com/512/29/29302.png" alt="Book Icon" width="30" class="me-2" />
       Abella's Books
